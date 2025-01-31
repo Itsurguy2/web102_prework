@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - KicRox
 
 Submitted by: Jesse Rosenthal
 
-KikRox is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+KicRox is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 10 plus hours spent in total
 
@@ -44,10 +44,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+The challenges that showed for this website creation was getting a complete undertanding of the project.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Jesse Rosenthal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

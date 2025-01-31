@@ -32,7 +32,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Web102 Prework Demo](assets/Web102_Prework_vid.gif)
+
+
+![Web102 Prework Demo](https://your-image-url.com/Web102_Prework_vid.gif)
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

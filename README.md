@@ -34,7 +34,8 @@ Here's a walkthrough of implemented features:
 
 
 
-<img src="screen_shot_and_gif/Web102_Prework_vid.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
+![Video Walkthrough](screen_shot_and_gif/Web102_Prework_vid.gif)
+
 
 
 

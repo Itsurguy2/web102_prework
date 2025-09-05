@@ -1,4 +1,4 @@
-# WEB Prework - KicRox
+# - KicRox
 
 Submitted by: Jesse Rosenthal
 

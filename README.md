@@ -36,9 +36,9 @@ Here's a walkthrough of implemented features:
 
 ![Video Walkthrough](screen_shot_and_gif/Web102_Prework_vid.gif)
 
-https://github.com/Itsurguy2/web102_prework/blob/main/screen_shot_and_gif/Web102%20Prework%20vid.gif
 
 
+<img src='https://github.com/Itsurguy2/web102_prework/blob/main/screen_shot_and_gif/Web102%20Prework%20vid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
